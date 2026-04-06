@@ -16,4 +16,6 @@ A professional, single-page web portfolio showcasing my experience, skills, and 
 - **Vanilla JavaScript:** DOM manipulations and Intersection Observer logic natively.
 
 ## 🔗 View Live
-Once GitHub Pages is enabled in the repository settings, you'll be able to view the portfolio live!
+🌍 **[Click here to view the live portfolio!](https://simrandewangan2710.github.io/Simran_portfolio/)**
+
+*(Note: If the page returns a 404, please go to your GitHub repository **Settings > Pages** and set the source branch to **main**, then wait a minute for deployment).*
